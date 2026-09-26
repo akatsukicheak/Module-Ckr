@@ -2,7 +2,7 @@
   "banned": [
     "AKA-GTK3-TVD8-OHQS"
   ],
-  "maintenance": true,
+  "maintenance": false,
   "rules_version": "1a0de57ec87",
-  "updated": "2026-09-26T16:01:53.436414"
+  "updated": "2026-09-26T16:03:19.442448"
 }
