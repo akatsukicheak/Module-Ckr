@@ -1,9 +1,10 @@
 {
   "banned": [
     "AKA-XH7J-RHSS-9G39",
-    "AKA-4XIE-2YHX-8J5O"
+    "AKA-4XIE-2YHX-8J5O",
+    "AKA-B1QP-73JZ-N3T6"
   ],
   "maintenance": false,
   "rules_version": "1a0e1f78596",
-  "updated": "2026-09-27T14:54:51.679403"
+  "updated": "2026-09-27T14:55:08.309570"
 }
