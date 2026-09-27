@@ -1,9 +1,6 @@
 {
-  "banned": [
-    "AKA-GTK3-TVD8-OHQS",
-    "AKA-D3GD-H4XK-7Z59"
-  ],
+  "banned": [],
   "maintenance": false,
   "rules_version": "1a0e1f78596",
-  "updated": "2026-09-27T08:24:50.326916"
+  "updated": "2026-09-27T09:19:03.023667"
 }
